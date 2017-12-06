@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Move Yourself</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="introduction">Everyone nowadays knows about the benefits that sport practice brings for life.\n\nLet\'s check some good ones?</string>
+
+
+    <!-- Links pointed in app -->
+    <string name="github">https://github.com/charlescampista</string>
+    <string name="developer">http://www.bnctecnologia.com.br/charlescampista</string>
+
+    <!-- Boxing Strings -->
+    <string name="boxing_title">Boxing</string>
+    <string name="boxing_description">Boxing isn’t just reserved for the ring anymore. The sport has become somewhat of a fitness phenomenon, invading gyms across the country to provide a high intensity workout that is more than just hype. It is definitely an effective workout (science says so), and you’d be surprised at how much fun it is to punch stuff. The recent popularity of boxing and martial arts as a workout is due in part to the meteoric rise of the UFC and every girl’s dream of being as cool as Ronda Rousey (pre-Holly Holm, of course). However, boxing has been around for years and years, with several of the world’s best athletes excelling in this sport. While some die hard martial artists refuse to recognize boxing as a martial art, there’s no denying that it holds many of the same benefits, even if it was developed as a sport in the Western world.</string>
+
+    <!-- Swimming Strings -->
+    <string name="swimming_title">Swimming</string>
+    <string name="swimming_description">Every type of exercise has its selling points. But swimming is unlike any other aerobic workout in a few important ways.
+
+First, the fact that you’re submerged in water means your bones and muscles are somewhat unshackled from the constraints of gravity, says Hirofumi Tanaka, a professor of kinesiology and director of the Cardiovascular Aging Research Lab at the University of Texas.
+
+This makes swimming the ideal exercise for people with osteoarthritis, for whom weight-bearing exercise can be excruciatingly painful. According to Tanaka’s research of people with the condition, swimming decreases arterial stiffness, a risk factor for heart trouble. More of his research has linked swim training with lower blood pressure among people with hypertension. The coolness and buoyancy of water are also appealing to people who are overweight or obese, for whom load-bearing aerobic exercises like running may be too hot or uncomfortable, Tanaka says.
+
+
+But don’t be fooled; your body is working hard when you’re in the pool. Water is denser than air, so moving through H2O puts more external pressure on your limbs than out-of-water training, studies have shown. Even better, that pressure is uniformly distributed. It doesn’t collect in your knees, hips or the other places that bear most of the burden when you exercise with gravity sitting on your shoulders.</string>
+
+
+    <!-- Tennis Strings -->
+    <string name="tennis_title">Tennis</string>
+    <string name="tennis_description">
+
+    Sports are great for so many different reasons. They all (well most) offer great workouts, competition, camaraderie, and fun. But what sport is the best? Well tennis is, of course! Here are our top 10 reasons why tennis is the best sport.
+
+        1. Minimal Injuries
+
+    Compared to other sports, especially contact sports, tennis is very safe. Most injuries are related to overuse, but with the proper exercises, even those can be minimized or even eliminated. Everyone loves being able to have fun without the risk of injury!
+
+        2. It’s better than an anger management session
+
+    Tough day at work? Go smash some balls on the tennis court! What better way to relieve stress than by hitting a ball as hard as you can. It feels great, and when they go in, it feels even better!
+
+        3. It’s a great workout
+
+    Many sports are great workouts, but few sports offer the fun AND anaerobic activity that tennis offers. Tennis players are almost constantly in motion, and using nearly every muscle in their body. In addition to short sprints, there are also constant changes of direction, and motion in every possible angle. It builds muscle and stamina. What’s not to love?
+
+        4. It’s actually affordable
+
+    Sure, tennis can be expensive and it is viewed as an elitist sport. Tennis lessons can be expensive and so can rackets, but once you have the proper racket and footwear, you can find a free court almost anywhere. What other sport can you go and play for free wherever you are?
+
+        5. It is played EVERYWHERE
+
+    We mean it, it really is played everywhere. No matter where you are, chances are there is a tennis court nearby. You can find a court and a game almost anywhere you go. And if traveling to play tennis is a plan of yours, you can find spectacular tennis resorts on almost every continent. It wouldn’t be outrageous to think that one day, people will even be playing in Antarctica!
+
+
+        6. You can play all year round!
+
+    Is it snowing outside? Can’t play golf. But you can find an indoor court, usually for less than $30 per hour, and go have a blast while getting a good workout playing tennis. Sure, summer is peak tennis season, but there is no off-season!
+
+
+        7. It’s good for the body AND mind
+
+    Tennis is as mental a sport as any. You can be a great player, but not fulfill your potential if your mental game is weak. Playing tennis will help you get in good shape, but it also stimulates your mind in ways that other sports do not. Great tennis players are all mentally strong, and playing tennis will only fortify your mind, helping you out in other areas of your life as well!
+
+        8. You don’t need to round up a team to play!
+
+    All you need is a racket, balls, and one other person to go have a great time on the tennis court. Can’t find a partner/opponent? That’s ok! Most public tennis courts also have a backboard. Go smack the ball against the wall for a while. It will help your strokes and your timing. You will be even better off for your next match!
+
+        9. It’s social!
+
+    Tennis at the amateur level is as much about fun as it is competition. It is a very social sport, allowing you to have fun with your friends and opponents not only during points, but also between, before, and after the match!
+
+        10. You can play FOREVER!
+
+    Tennis is great for all ages. Children can start very young, often as early as three years old, and you can play until you can no longer walk. People lucky enough to live past 100 can still play the game. What other sport can you play from age 3-103?
+
+    </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
